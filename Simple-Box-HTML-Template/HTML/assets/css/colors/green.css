@@ -1,0 +1,113 @@
+.recent-post .date-stamp,.blog-post.style1 .date-stamp,.tags li:hover,.post-head .date-stamp,.comment,.blog-post .social li:hover,.pagination li:hover,.service:hover span,.testimonial,.owl-theme .owl-controls .owl-page span,.project-info a,.project-info:hover,.project-info:hover .project-info:before,.progress-radial,.skill a:hover,.get_direction button,a.view_map,.message-box,.subscribe,.socials li:hover:after,a.view_map,.our_location,.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus,.dropdown-menu > li.active > a,.dropdown-menu > li.active > a:hover,.dropdown-menu > li.active > a:focus,a.toTop,.tags li a:hover,.tags li a:hover, .blog-post a.read-more:hover,.comments .load-more:hover, .comments a.load-more:hover,.pagination li.active,.navbar-default .navbar-nav > li > a:after,.pricing-column a,.column-head{
+	background:#29cdab;
+}
+
+h2 span,.navbar-default .navbar-brand span,.breadcrumb li.active a,.recent-post a,.post-head li,.box-content h5,.service:hover h3,.testimonials h3,.write-us h3,.social-head,.socials h5,footer .right .box,.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus,.site_map li a:hover,.category li a:hover,.comment h3, .comment-info p span,.breadcrumb li a,footer .copyrights .box{
+	color:#29cdab;
+}
+
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus,.tags li,.blog-post .quote,a.load-more,.blog-post a.read-more,.blog-post .social li:hover,.pagination li,.welcome-box:hover,.skill a,.get_direction,.map_trigger_wrapper,footer,.socials li:hover:after,.tags li a{
+	border-color:#29cdab;
+}
+.welcome-box:hover:after,.socials li:hover:before,.category li:before{
+	border-color:#29cdab transparent transparent; 
+}
+
+.project-info:hover:before{
+	border-color: transparent #29cdab transparent transparent;
+}
+.projects.style2 .project-info:hover:before{
+	border-color: transparent transparent transparent #29cdab;
+}
+.recent-post .date-stamp:after,.post-head .date-stamp:after,.blog-post .quote:before{
+	border-color:transparent transparent transparent #29cdab;
+}
+
+.message-box input, .message-box textarea, .subscribe input{
+	background:#28b298;
+}
+
+.message-box button, .subscribe button,.project-info:hover a{
+	background:#3ed1b4;
+}
+
+.socials li:hover{
+	background:#000;
+}
+.socials li:hover{
+	border-color:#000;
+}
+.message-box button, .subscribe button{
+	border-color:#94e5d4;
+}
+
+.map_trigger_wrapper:after{
+	background-image:url(../../img/basic/triangle-mint.png);
+}
+
+/*Skill Progress*/
+.progress-0 {
+    background-image: linear-gradient(90deg, #59697d 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(90deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-5 {
+    background-image: linear-gradient(90deg, #59697d 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(108deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-10 {
+    background-image: linear-gradient(90deg, #59697d 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(126deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-15 {
+    background-image: linear-gradient(90deg, #59697d 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(144deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-20 {
+    background-image: linear-gradient(90deg, #59697d 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(162deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-25 {
+    background-image: linear-gradient(90deg, #59697d 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(180deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-30 {
+    background-image: linear-gradient(90deg, #59697d 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(198deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-35 {
+    background-image: linear-gradient(90deg, #59697d 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(216deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-40 {
+    background-image: linear-gradient(90deg, #59697d 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(234deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-45 {
+    background-image: linear-gradient(90deg, #59697d 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(252deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-50 {
+    background-image: linear-gradient(-90deg, #29cdab 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(270deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-55 {
+    background-image: linear-gradient(-72deg, #29cdab 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(270deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-60 {
+    background-image: linear-gradient(-54deg, #29cdab 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(270deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-65 {
+    background-image: linear-gradient(-36deg, #29cdab 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(270deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-70 {
+    background-image: linear-gradient(-18deg, #29cdab 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(270deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-75 {
+    background-image: linear-gradient(0deg, #29cdab 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(270deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-80 {
+    background-image: linear-gradient(18deg, #29cdab 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(270deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-85 {
+    background-image: linear-gradient(36deg, #29cdab 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(270deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-90 {
+    background-image: linear-gradient(54deg, #29cdab 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(270deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-95 {
+    background-image: linear-gradient(72deg, #29cdab 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(270deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+.progress-100 {
+    background-image: linear-gradient(90deg, #29cdab 50%, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0)), linear-gradient(270deg, #29cdab 50%, #59697d 50%, #59697d);
+}
+
